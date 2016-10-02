@@ -38,7 +38,6 @@ In this lab we will:
 
 [Here is your starter code](./code/w8-4.4-starter.ipynb)
 
-> [Solution Code](./code/w8-4.4-solutions.ipynb)
 
 #### Deliverable
 
